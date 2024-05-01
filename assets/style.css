@@ -550,6 +550,9 @@ nav {
   .social svg {
     vertical-align: middle; }
 
+.title {
+  font-family: llxb;
+}
 nav .page-title,
 nav .gallery-title,
 nav .project-title,
