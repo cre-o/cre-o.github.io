@@ -1363,7 +1363,7 @@ nav {
 .project-module {
   clear: both; }
 
-project-module p.description {
+.project-module p.description {
   font-family: llxb;
   padding: 10px;
 }
