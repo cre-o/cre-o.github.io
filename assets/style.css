@@ -1363,6 +1363,11 @@ nav {
 .project-module {
   clear: both; }
 
+project-module p.description {
+  font-family: llxb;
+  padding: 10px;
+}
+
 .media-is-processing {
   display: none; }
 
